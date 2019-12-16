@@ -1,0 +1,14 @@
+{
+  "name": "irina-grid-vmwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irina",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.8.1"
+  }
+}
